@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Quintin Blume
+- 🌱 I’m currently studying at MBO Utrecht
+- 👀 Have a look around my projects :)
+- 📫 You can reach me at q.blume@outlook.com
